@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/227755997/3171d680-1d98-11ea-9bfd-51ba32490a41)
+[![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
 <h1 align="center">Hi 👋, I'm Amit Kotnala</h1>
 <h3 align="center">Analyzing Data to Unlock Insights and Drive Decision-making</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU3M2NkYTIxYjhiOTgyM2Q1NWZiMWU0OTQ1YzgzOGE4MjgxMTUxMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"
