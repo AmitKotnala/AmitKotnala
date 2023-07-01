@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Cleaning , Data manipulation and visualization**
 
-- 🌱 I’m currently learning **OOPs and Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Business Problems**
 
